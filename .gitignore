@@ -4,7 +4,11 @@
 /.config.cmd
 /.config.old
 /..config.tmp
+<<<<<<< HEAD
 #		/.config
+=======
+#/.config
+>>>>>>> parent of 5ab5f40... Revert "alteração para que o arquivo .config seja monitorado"
 *.depend
 *.o
 /*.patch
